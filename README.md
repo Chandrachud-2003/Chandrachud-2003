@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandrachud Malali Gowda</h1>
 <h3 align="center">Research Assistant at Colby College</h3>
 
-- 🔭 I’m currently working on [HuffmanNavigation](https://github.com/huffman-spatial-cognition-lab/Bearings)
+- 🔭 I’m currently working on [HuffmanNavigation](https://github.com/huffman-spatial-cognition-lab/Bearings2023)
 
 - 🌱 I’m currently learning **TensorFlow**
 
